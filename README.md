@@ -5,3 +5,5 @@ It demonstrates steps to
 - build a simple CNN model using the FashionMNIST dataset
 - serve the model as a REST API
 - deploy the REST API on platforms like Heroku, AppEngine
+
+I presented this at [DevFest Kolkata 2019](devfest.gdgkolkata.org/speakers).  
